@@ -5,11 +5,16 @@ Via VS Code avec plug-in PlatformIO
 
 Carte Arduino NANO
 
+
 Branchements à réaliser :
+
 Tension milieu pont diviseur : broche A0
 
+
 Mettre la resistance de référence entre +5V et A0
+
 Stocker sa valeur dans resistance_reference (int)
+
 
 Mettre la resistance à mesure entre A0 et GND
 
